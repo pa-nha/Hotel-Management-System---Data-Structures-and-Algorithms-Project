@@ -1,0 +1,3 @@
+D:\bin\cmake.exe -E rm -f CMakeFiles\HotelManagementSystem.dir/objects.a
+D:\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\HotelManagementSystem.dir/objects.a @CMakeFiles\HotelManagementSystem.dir\objects1.rsp
+D:\MSYS2\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\HotelManagementSystem.dir/objects.a -Wl,--no-whole-archive -o HotelManagementSystem.exe -Wl,--out-implib,libHotelManagementSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HotelManagementSystem.dir\linkLibs.rsp

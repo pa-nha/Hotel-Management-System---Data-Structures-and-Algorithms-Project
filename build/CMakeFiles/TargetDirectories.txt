@@ -1,0 +1,3 @@
+D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build/CMakeFiles/HotelManagementSystem.dir
+D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build/CMakeFiles/edit_cache.dir
+D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build/CMakeFiles/rebuild_cache.dir

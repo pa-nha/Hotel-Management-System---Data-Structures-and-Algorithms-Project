@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\main.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\main.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/main.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\Room.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\Room.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/Room.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/Room.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\Guest.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\Guest.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/Guest.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/Guest.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\Reservation.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\Reservation.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/Reservation.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/Reservation.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\Billing.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\Billing.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/Billing.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/Billing.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\Tree.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\Tree.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/Tree.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/Tree.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\Sorting.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\Sorting.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/Sorting.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/Sorting.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\FileManager.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\FileManager.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/FileManager.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/FileManager.cpp.obj"
+},
+{
+  "directory": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/build",
+  "command": "D:\\MSYS2\\ucrt64\\bin\\c++.exe  @CMakeFiles\\HotelManagementSystem.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HotelManagementSystem.dir\\src\\HotelManager.cpp.obj -c \"D:\\AIECS\\Year2Semester2\\Data Structures and Algorithms\\Project\\HotelManagementSystem\\src\\HotelManager.cpp\"",
+  "file": "D:/AIECS/Year2Semester2/Data Structures and Algorithms/Project/HotelManagementSystem/src/HotelManager.cpp",
+  "output": "CMakeFiles/HotelManagementSystem.dir/src/HotelManager.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+roomNumber,type,price,isAvailable,guestName
+102,Double,20,1,
+103,Suite,50,1,
